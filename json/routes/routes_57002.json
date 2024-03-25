@@ -1,0 +1,977 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5871523156564247384
+  },
+  "m_Name": "routes_57002",
+  "m_layoutId": 57002,
+  "m_routes": [
+    {
+      "m_routeId": 1,
+      "m_omenPos": {
+        "x": 1199.3738,
+        "y": 543.87476
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 1340.5952,
+            "y": 595.7143
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1340.0,
+            "y": 594.0
+          },
+          "m_tag": "1",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1199.3738,
+            "y": 543.87476
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 120,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -58.864975,
+            "y": 104.26617
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 80.31311,
+            "y": -82.36794
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 179.33464,
+            "y": -50.078247
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1337.4559,
+            "y": 346.0078
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1339.6085,
+            "y": 593.56165
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -61.76124,
+            "y": 100.60666
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 78.16048,
+            "y": -82.36794
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1335.3033,
+            "y": 346.0078
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1341.7612,
+            "y": 593.56165
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -59.608604,
+            "y": 104.91193
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -59.608604,
+            "y": 104.91193
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1339.6085,
+            "y": 591.409
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1341.7612,
+            "y": 595.7143
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -57.45597,
+            "y": 107.06456
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -38.08217,
+            "y": 137.20155
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1322.3875,
+            "y": 617.2407
+          },
+          "m_tag": "",
+          "m_warp": 160,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1259.9609,
+            "y": 800.2153
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 385.98825,
+            "y": 475.16632
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 116.90807,
+            "y": 815.28375
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 2,
+      "m_omenPos": {
+        "x": 1203.6008,
+        "y": 300.11743
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 1335.3033,
+            "y": 346.0078
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1203.6008,
+            "y": 300.11743
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 120,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 179.33464,
+            "y": -52.23088
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 179.33464,
+            "y": -52.23088
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 560.3523,
+            "y": 79.080246
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 665.8317,
+            "y": -56.536148
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1163.0919,
+            "y": -45.77298
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 487.16245,
+            "y": 798.0626
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 493.62036,
+            "y": 793.7573
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1160.9393,
+            "y": -45.77298
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1165.2446,
+            "y": -45.77298
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 487.16245,
+            "y": 798.0626
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 493.62036,
+            "y": 791.6047
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1163.0919,
+            "y": -45.77298
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1335.3033,
+            "y": 346.0078
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 179.33464,
+            "y": -52.23088
+          },
+          "m_tag": "",
+          "m_warp": 240,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 181.48727,
+            "y": -52.23088
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1335.3033,
+            "y": 346.0078
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1341.7612,
+            "y": 572.0352
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -48.845387,
+            "y": 85.53815
+          },
+          "m_tag": "",
+          "m_warp": 260,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -55.303288,
+            "y": 324.48138
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 35.10766,
+            "y": 354.6184
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 385.98825,
+            "y": 475.16632
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 119.06071,
+            "y": 815.28375
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 3,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 1302.2311,
+            "y": 473.42462
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1230.3718,
+            "y": 448.06262
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1016.2035,
+            "y": 380.43054
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 942.93536,
+            "y": 331.11545
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 842.89624,
+            "y": 301.52643
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 749.9022,
+            "y": 360.7045
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 500,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 755.5382,
+            "y": 400.15656
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 623.092,
+            "y": 583.32684
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 346.9276,
+            "y": 487.51468
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 99.686905,
+            "y": 800.2153
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 4,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 627.0842,
+            "y": -24.24655
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 372.28967,
+            "y": 293.0724
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 413.1507,
+            "y": 307.1624
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 800,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 537.1428,
+            "y": 348.0235
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 157.80826,
+            "y": 826.04694
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 5,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": -8.14085,
+            "y": 1.4090061
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 167.98434,
+            "y": 66.2231
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 349.7456,
+            "y": 142.30922
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 427.24075,
+            "y": 140.9002
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 517.4168,
+            "y": 176.12526
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 411.74173,
+            "y": 300.11743
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -43.365955,
+            "y": 128.21915
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": -27.319002,
+            "y": 311.56555
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 377.37772,
+            "y": 451.48724
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 99.686905,
+            "y": 800.2153
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 6,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 274.05087,
+            "y": -50.078247
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 986.5753,
+            "y": 203.93346
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 810.48926,
+            "y": 431.15457
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1356.8296,
+            "y": 621.54596
+          },
+          "m_tag": "",
+          "m_warp": 200,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1281.4873,
+            "y": 765.773
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 433.34637,
+            "y": 477.31897
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 155.65562,
+            "y": 826.04694
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 7,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 1302.2311,
+            "y": 473.42462
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 1230.3718,
+            "y": 448.06262
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 842.89624,
+            "y": 301.52643
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 755.5382,
+            "y": 400.15656
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 623.092,
+            "y": 583.32684
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 346.9276,
+            "y": 487.51468
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 99.686905,
+            "y": 800.2153
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    },
+    {
+      "m_routeId": 8,
+      "m_omenPos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "m_points": [
+        {
+          "m_pos": {
+            "x": 1205.0099,
+            "y": 736.9081
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 578.0039,
+            "y": 517.1037
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 1000,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 432.87668,
+            "y": 470.60666
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        },
+        {
+          "m_pos": {
+            "x": 157.80826,
+            "y": 826.04694
+          },
+          "m_tag": "",
+          "m_warp": 0,
+          "m_wait": 0,
+          "m_speed_scale": 0
+        }
+      ]
+    }
+  ]
+}

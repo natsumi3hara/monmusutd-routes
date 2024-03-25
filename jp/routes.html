@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>ルーツ</title>
+        <link href="../css/routes.css" rel="stylesheet" type="text/css"/>
+        <script src="../js/routes.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4.3.0/dist/chart.umd.min.js"></script>
+        <script>
+            //var console = {};
+            //console.log = function(){};
+            var masterValues = {};
+            masterValues["stageID"] = 0;
+            masterValues["mapID"] = 0;
+            fetchMasterJSON();
+        </script>
+    </head>
+    <body>
+        <div id="top-bar">
+            <table id="top-bar-table" style="border:none;padding:3px;border-spacing:0px;">
+                <tr>
+                    <td style="border:none;background-color:white;font-size:2.5vw;">
+                        モンスター娘TD 敵路線マップ (β版)
+                    </td>
+                    <td style="border:none;background-color:white;font-size:1vw;text-align:right;vertical-align:bottom;">
+                        by 三原なつみ
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="main-wrapper">
+            <div id="left-panel" class="main-div" style="flex:1;">
+                <button type="button" onclick="testData(80060);">Test Data</button>
+                <button type="button" onclick="testData(80061);">Test Data</button>
+                <button type="button" onclick="testData(80062);">Test Data</button>
+                <button type="button" onclick="testData(57014);">Test Data</button>
+                <br><br>
+                <span style="font-family:mplus2;background-color:#faa5b2;display:block;width:100%;">クエストタイプ</span>
+                <select id="select-quest-type" style="font-family: mplus2;width:100%;" onchange="selectQuestType(this.value);">
+                    <option value="10000">メインストーリー</option>
+                    <option value="20000">SPチャレンジ</option>
+                    <option value="30000">素材クエスト</option>
+                    <option value="40000">ボスチャレンジ</option>
+                    <option value="50000">大連闘</option>
+                    <option value="55000">ダンジョンディフェンス</option>
+                    <option value="57000">大迷宮</option>
+                    <option value="58000">封印</option>
+                    <option value="70000">イベント</option>
+                    <option value="80000">らんちき</option>
+                    <option value="90000">大討伐</option>
+                    <option value="100000">すごろく</option>
+                </select>
+                <span style="font-family:mplus2;background-color:#faa5b2;display:block;width:100%;">イベント期間</span>
+                <select id="select-quest-year" style="font-family:mplus2;width:100%;">
+                    <option value="0">-----</option>
+                </select>
+                <span style="font-family:mplus2;background-color:#faa5b2;display:block;width:100%;">クエスト</span>
+                <select id="select-quest-title" style="font-family:mplus2;width:100%;">
+                    <option value="0">-----</option>
+                </select>
+                <span style="font-family:mplus2;background-color:#faa5b2;display:block;width:100%;">ステージ</span>
+                <select id="select-quest-quest" style="font-family:mplus2;width:100%;">
+                    <option value="0">-----</option>
+                </select>
+                <br><br>
+                <button type="button" onclick="showAllRoutes();">Show All</button>
+                <button type="button" onclick="hideAllRoutes();">Clear All</button>
+            </div>
+            <div id="middle-panel" class="main-div" style="flex:7;">
+                <div id="middle-panel-top" style="flex:4;position:relative;">
+                    <canvas id="map-img" class="middle-panel-canvas" style="position:static;"></canvas>
+                    <canvas id="tile-img" class="middle-panel-canvas"></canvas>
+                    <div id="route-img" class="middle-panel-canvas"></div>
+                </div>
+                <div id="middle-panel-bottom" style="flex:1;">
+                    <label for="time">経過時間</label><br>
+                    <input type="range" id="time-input" name="time-input" min="0" max="3000" value="0" style="width:80%;">
+                    <output id="time-display"></output>
+                </div>
+            </div>
+            <div id="right-panel" class="main-div" style="flex:2;">
+                <span style="font-family:mplus2;font-size:1.5vw;position:sticky;top:0;background-color:#faa5b2;width:100%;">敵選択パネル</span>
+                <table id="enemy-select-table"></table>
+            </div>
+        </div>
+    </body>
+    <script>
+        const timeDisplay = document.querySelector("#time-display");
+        const timeInput = document.querySelector("#time-input");
+        timeDisplay.value = "0.000秒";
+        timeInput.addEventListener("input", (event) => {
+            timeDisplay.value = (Number(event.target.value)/30).toFixed(3)+"秒";
+        });
+    </script>
+</html>

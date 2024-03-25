@@ -1,0 +1,780 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6982725085219097942
+  },
+  "m_Name": "locations_10405",
+  "m_layoutId": 10405,
+  "m_summonPoints": [
+    {
+      "m_pointId": 1,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1074.29,
+          "y": 256.67
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        4
+      ]
+    },
+    {
+      "m_pointId": 2,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 899.0,
+          "y": 207.00002
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        4
+      ]
+    },
+    {
+      "m_pointId": 3,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 935.24,
+          "y": 445.23996
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        4
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 4,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1036.19,
+          "y": 434.76
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        3
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 5,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 766.67,
+          "y": 496.67
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        6
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 6,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 649.52,
+          "y": 520.48
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        5
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 7,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 638.1,
+          "y": 370.95
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 8,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 400.0,
+          "y": 321.43
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 9,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 266.0,
+          "y": 265.0
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        1
+      ]
+    },
+    {
+      "m_pointId": 10,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 134.28998,
+          "y": 445.23996
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 11,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 1134.29,
+          "y": 407.14
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        13
+      ],
+      "m_atterIds": [
+        1
+      ]
+    },
+    {
+      "m_pointId": 13,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 998.1,
+          "y": 373.81
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        11,
+        14,
+        24
+      ],
+      "m_atterIds": [
+        1
+      ]
+    },
+    {
+      "m_pointId": 14,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 797.14,
+          "y": 411.9
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        13,
+        16
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 16,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 666.67,
+          "y": 457.62
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        14,
+        17
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 17,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 515.24,
+          "y": 491.90002
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        16,
+        18
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 18,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 374.29,
+          "y": 482.38
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        17,
+        20,
+        21
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 20,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 237.13998,
+          "y": 421.43002
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        18
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 21,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 447.62,
+          "y": 392.86
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        18,
+        22
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 22,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 555.24,
+          "y": 323.33
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        21,
+        23,
+        25
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 23,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 695.24,
+          "y": 296.67
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        22,
+        24
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 24,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 843.81,
+          "y": 307.14
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        13,
+        23
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 25,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 456.19,
+          "y": 250.0
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        22,
+        27
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 27,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 357.14,
+          "y": 202.38002
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0
+      },
+      "m_edge": [
+        25
+      ],
+      "m_atterIds": [
+        3
+      ]
+    }
+  ],
+  "m_playerRoutes": [
+    {
+      "m_routeId": 3,
+      "m_startPointId": 22,
+      "m_endPointId": 25,
+      "m_positions": [
+        {
+          "x": 555.2381,
+          "y": 323.33328
+        },
+        {
+          "x": 524.7619,
+          "y": 286.19043
+        },
+        {
+          "x": 456.19043,
+          "y": 249.99992
+        }
+      ]
+    },
+    {
+      "m_routeId": 4,
+      "m_startPointId": 22,
+      "m_endPointId": 23,
+      "m_positions": [
+        {
+          "x": 555.2381,
+          "y": 323.33328
+        },
+        {
+          "x": 605.7143,
+          "y": 314.76184
+        },
+        {
+          "x": 644.7619,
+          "y": 307.14282
+        },
+        {
+          "x": 695.2381,
+          "y": 296.66663
+        }
+      ]
+    },
+    {
+      "m_routeId": 5,
+      "m_startPointId": 23,
+      "m_endPointId": 24,
+      "m_positions": [
+        {
+          "x": 695.2381,
+          "y": 296.66663
+        },
+        {
+          "x": 747.6191,
+          "y": 295.71423
+        },
+        {
+          "x": 795.2381,
+          "y": 304.28568
+        },
+        {
+          "x": 843.80963,
+          "y": 307.14282
+        }
+      ]
+    },
+    {
+      "m_routeId": 6,
+      "m_startPointId": 13,
+      "m_endPointId": 24,
+      "m_positions": [
+        {
+          "x": 998.09534,
+          "y": 373.80948
+        },
+        {
+          "x": 903.8096,
+          "y": 336.66663
+        },
+        {
+          "x": 843.80963,
+          "y": 307.14282
+        }
+      ]
+    },
+    {
+      "m_routeId": 9,
+      "m_startPointId": 13,
+      "m_endPointId": 14,
+      "m_positions": [
+        {
+          "x": 998.09534,
+          "y": 373.80948
+        },
+        {
+          "x": 797.1429,
+          "y": 411.90472
+        }
+      ]
+    },
+    {
+      "m_routeId": 12,
+      "m_startPointId": 16,
+      "m_endPointId": 17,
+      "m_positions": [
+        {
+          "x": 666.6667,
+          "y": 457.619
+        },
+        {
+          "x": 544.7619,
+          "y": 483.3333
+        },
+        {
+          "x": 512.3809,
+          "y": 490.95236
+        },
+        {
+          "x": 515.2381,
+          "y": 491.90472
+        }
+      ]
+    },
+    {
+      "m_routeId": 13,
+      "m_startPointId": 21,
+      "m_endPointId": 22,
+      "m_positions": [
+        {
+          "x": 447.61902,
+          "y": 392.85712
+        },
+        {
+          "x": 511.42856,
+          "y": 366.19043
+        },
+        {
+          "x": 537.1428,
+          "y": 348.09518
+        },
+        {
+          "x": 555.2381,
+          "y": 323.33328
+        }
+      ]
+    },
+    {
+      "m_routeId": 14,
+      "m_startPointId": 18,
+      "m_endPointId": 21,
+      "m_positions": [
+        {
+          "x": 374.28568,
+          "y": 482.38092
+        },
+        {
+          "x": 403.8095,
+          "y": 443.33328
+        },
+        {
+          "x": 447.61902,
+          "y": 392.85712
+        }
+      ]
+    },
+    {
+      "m_routeId": 15,
+      "m_startPointId": 17,
+      "m_endPointId": 18,
+      "m_positions": [
+        {
+          "x": 515.2381,
+          "y": 491.90472
+        },
+        {
+          "x": 425.71426,
+          "y": 489.99997
+        },
+        {
+          "x": 383.80948,
+          "y": 480.4762
+        },
+        {
+          "x": 374.28568,
+          "y": 482.38092
+        }
+      ]
+    },
+    {
+      "m_routeId": 18,
+      "m_startPointId": 5,
+      "m_endPointId": 6,
+      "m_positions": [
+        {
+          "x": 766.6667,
+          "y": 496.66663
+        },
+        {
+          "x": 725.7143,
+          "y": 518.5714
+        },
+        {
+          "x": 684.7619,
+          "y": 525.2381
+        },
+        {
+          "x": 649.5238,
+          "y": 520.4762
+        }
+      ]
+    },
+    {
+      "m_routeId": 19,
+      "m_startPointId": 3,
+      "m_endPointId": 4,
+      "m_positions": [
+        {
+          "x": 935.23816,
+          "y": 445.23807
+        },
+        {
+          "x": 973.3334,
+          "y": 448.0952
+        },
+        {
+          "x": 1009.52386,
+          "y": 444.28568
+        },
+        {
+          "x": 1036.1906,
+          "y": 434.76187
+        }
+      ]
+    },
+    {
+      "m_routeId": 20,
+      "m_startPointId": 25,
+      "m_endPointId": 27,
+      "m_positions": [
+        {
+          "x": 456.19043,
+          "y": 249.99992
+        },
+        {
+          "x": 357.14282,
+          "y": 202.38089
+        }
+      ]
+    },
+    {
+      "m_routeId": 21,
+      "m_startPointId": 18,
+      "m_endPointId": 20,
+      "m_positions": [
+        {
+          "x": 374.28568,
+          "y": 482.38092
+        },
+        {
+          "x": 237.1428,
+          "y": 421.42853
+        }
+      ]
+    },
+    {
+      "m_routeId": 22,
+      "m_startPointId": 14,
+      "m_endPointId": 16,
+      "m_positions": [
+        {
+          "x": 797.1429,
+          "y": 411.90472
+        },
+        {
+          "x": 666.6667,
+          "y": 457.619
+        }
+      ]
+    },
+    {
+      "m_routeId": 23,
+      "m_startPointId": 11,
+      "m_endPointId": 13,
+      "m_positions": [
+        {
+          "x": 1134.2858,
+          "y": 407.14282
+        },
+        {
+          "x": 998.09534,
+          "y": 373.80948
+        }
+      ]
+    }
+  ],
+  "m_corePos": [
+    {
+      "x": 1269.52,
+      "y": 442.38
+    }
+  ],
+  "m_startViewPoint": {
+    "x": 64640.004,
+    "y": -35640.0
+  },
+  "m_lockScrollRange": {
+    "x": "-Infinity",
+    "y": "Infinity",
+    "z": "Infinity",
+    "w": "-Infinity"
+  },
+  "m_lockMapScroll": 0
+}

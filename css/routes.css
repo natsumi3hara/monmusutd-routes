@@ -1,0 +1,64 @@
+@font-face {
+    font-family: mplus2;
+    src: url(../font/Mplus2-Medium.otf);
+    font-weight: bold;
+}
+#top-bar{
+    background-color:#ffb8c3;
+    margin:2px;
+}
+#top-bar-table{
+    border:none;
+    padding:3px;
+    border-spacing:0px;
+    width:100%;
+    font-family: mplus2;
+}
+#main-wrapper{
+    display:flex;
+    background-color:#fedce1;
+    margin:2px;
+    padding:3px;
+    height: 90vh;
+}
+.main-div{
+    background-color:white;
+    margin:1px;
+}
+#middle-panel{
+    display:flex;
+    flex-direction:column;
+}
+.middle-panel-canvas{
+    width:100%;
+    aspect-ratio:16/9;
+    position: absolute;
+    top:0;
+    left:0;
+}
+#right-panel{
+    overflow-y: scroll;
+}
+#enemy-select-table{
+    width:100%;
+}
+#enemy-select-table tr{
+    width:100%;
+    font-family: mplus2;
+}
+.enemy-select-image{
+    width:20%;
+    border: 2px solid #ffb8c3;
+}
+.enemy-select-image img{
+    width:100%;
+}
+.enemy-select-check{
+    width:80%;
+    border: 2px solid #ffb8c3;
+    font-family: mplus2;
+    cursor: pointer;
+}
+.selected{
+    background-color: #b3ffcf;
+}
