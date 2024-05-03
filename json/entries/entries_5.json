@@ -1,0 +1,159 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2175866510260751636
+  },
+  "m_Name": "entries_5",
+  "m_stageId": 5,
+  "m_entries": [
+    {
+      "m_entryId": 1,
+      "m_startTime": 0,
+      "m_autoBoot": 1,
+      "m_event": {
+        "m_events": [
+          {
+            "m_dataId": 1,
+            "m_eventId": 200005,
+            "m_timing": 60,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 2,
+            "m_eventId": 30126,
+            "m_timing": 210,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 3,
+            "m_eventId": 3,
+            "m_timing": 300,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 4,
+            "m_eventId": 6,
+            "m_timing": 1300,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 5,
+            "m_eventId": 7,
+            "m_timing": 2300,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 6,
+            "m_eventId": 11,
+            "m_timing": 3300,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 7,
+            "m_eventId": 13,
+            "m_timing": 4300,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          }
+        ]
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 1,
+            "m_params": [],
+            "m_appId": 800006,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "1",
+            "m_entryId": 0,
+            "m_omenType": 1,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 2,
+            "m_timing": 300,
+            "m_routeId": 2,
+            "m_params": [],
+            "m_appId": 800024,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 3,
+            "m_timing": 900,
+            "m_routeId": 3,
+            "m_params": [],
+            "m_appId": 800053,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 4,
+            "m_timing": 1000,
+            "m_routeId": 2,
+            "m_params": [],
+            "m_appId": 600192,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 5,
+            "m_timing": 1000,
+            "m_routeId": 3,
+            "m_params": [],
+            "m_appId": 200001,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    }
+  ]
+}
