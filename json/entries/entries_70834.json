@@ -534,7 +534,15 @@
       "m_startTime": 0,
       "m_autoBoot": 1,
       "m_event": {
-        "m_events": []
+        "m_events": [
+          {
+            "m_dataId": 1,
+            "m_eventId": 30281,
+            "m_timing": 60,
+            "m_justFlag": 0,
+            "m_requiredStart": 0
+          }
+        ]
       },
       "m_deploy": {
         "m_deployments": [
@@ -669,7 +677,7 @@
             "m_timing": 6780,
             "m_routeId": 2,
             "m_params": [],
-            "m_appId": 200005,
+            "m_appId": 200137,
             "m_randomFlag": 0,
             "m_noNeedToDestroyFlag": 0,
             "m_dropItem": "",
