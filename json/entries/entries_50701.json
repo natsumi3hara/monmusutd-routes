@@ -1,0 +1,1034 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2175866510260751636
+  },
+  "m_Name": "entries_50701",
+  "m_stageId": 50701,
+  "m_entries": [
+    {
+      "m_entryId": 1,
+      "m_startTime": 0,
+      "m_autoBoot": 1,
+      "m_event": {
+        "m_events": [
+          {
+            "m_dataId": 1,
+            "m_eventId": 20022,
+            "m_timing": 60,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          },
+          {
+            "m_dataId": 2,
+            "m_eventId": 30300,
+            "m_timing": 150,
+            "m_justFlag": 1,
+            "m_requiredStart": 0
+          }
+        ]
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 150,
+            "m_routeId": 1,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 2,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 2,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 3,
+      "m_callCount": 3
+    },
+    {
+      "m_entryId": 3,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 4,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 4,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 5,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 5,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 6,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 6,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 7,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 7,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 8,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 8,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 9,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 9,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 10,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 10,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 11,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 11,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 12,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 12,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 28,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 13,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 13,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 14,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 14,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 15,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 15,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 16,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 16,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 17,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 17,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 18,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 18,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 19,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 19,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900013,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 20,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 20,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900012,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 21,
+      "m_callCount": 4
+    },
+    {
+      "m_entryId": 21,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": [
+          {
+            "m_dataId": 1,
+            "m_eventId": 20011,
+            "m_timing": 60,
+            "m_justFlag": 0,
+            "m_requiredStart": 0
+          }
+        ]
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 33,
+            "m_params": [],
+            "m_appId": 900014,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 1,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 1
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 100,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 4,
+            "m_params": [],
+            "m_appId": 200004,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 2,
+            "m_timing": 30,
+            "m_routeId": 3,
+            "m_params": [],
+            "m_appId": 200004,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          },
+          {
+            "m_deployId": 3,
+            "m_timing": 60,
+            "m_routeId": 4,
+            "m_params": [],
+            "m_appId": 200004,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 101,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 8,
+            "m_params": [],
+            "m_appId": 200009,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 102,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 5,
+            "m_params": [],
+            "m_appId": 200019,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 103,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 32,
+            "m_params": [],
+            "m_appId": 600192,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 104,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 3,
+            "m_params": [],
+            "m_appId": 200069,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 105,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 5,
+            "m_params": [],
+            "m_appId": 200044,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 106,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 29,
+            "m_params": [],
+            "m_appId": 200045,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 107,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 30,
+            "m_params": [],
+            "m_appId": 200045,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    },
+    {
+      "m_entryId": 108,
+      "m_startTime": 0,
+      "m_autoBoot": 0,
+      "m_event": {
+        "m_events": []
+      },
+      "m_deploy": {
+        "m_deployments": [
+          {
+            "m_deployId": 1,
+            "m_timing": 0,
+            "m_routeId": 31,
+            "m_params": [],
+            "m_appId": 200045,
+            "m_randomFlag": 0,
+            "m_noNeedToDestroyFlag": 0,
+            "m_dropItem": "",
+            "m_entryId": 0,
+            "m_omenType": 0,
+            "m_auraType": -1,
+            "m_auraSize": 100,
+            "m_bossFlag": 0,
+            "m_appAnimFlag": 0,
+            "m_appInvincibleFlag": 0,
+            "m_battleEnd": 0
+          }
+        ]
+      },
+      "m_nextEntryId": 0,
+      "m_callCount": 1
+    }
+  ]
+}

@@ -440,8 +440,8 @@
       "m_summonType": 2,
       "m_point": {
         "m_pos": {
-          "x": 720.29126,
-          "y": 446.53845
+          "x": 732.2864,
+          "y": 437.32098
         },
         "m_tag": "",
         "m_warp": 0,
@@ -520,6 +520,84 @@
       ],
       "m_atterIds": [
         4
+      ]
+    },
+    {
+      "m_pointId": 23,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 497.8291,
+          "y": 375.79675
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 24,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1104.7574,
+          "y": 295.9815
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        25
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 25,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1229.4688,
+          "y": 282.679
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        24
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 26,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1152.9792,
+          "y": 415.70435
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [],
+      "m_atterIds": [
+        6
       ]
     }
   ],
@@ -672,6 +750,12 @@
       "m_routeId": 25,
       "m_startPointId": 15,
       "m_endPointId": 16,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 26,
+      "m_startPointId": 24,
+      "m_endPointId": 25,
       "m_positions": []
     }
   ],

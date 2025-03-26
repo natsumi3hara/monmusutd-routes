@@ -1,0 +1,730 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6982725085219097942
+  },
+  "m_Name": "locations_59015",
+  "m_layoutId": 59015,
+  "m_summonPoints": [
+    {
+      "m_pointId": 1,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 287.89465,
+          "y": 494.59152
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        3,
+        13,
+        19
+      ],
+      "m_atterIds": [
+        1
+      ]
+    },
+    {
+      "m_pointId": 3,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 407.96536,
+          "y": 405.2226
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        1,
+        4
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 4,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 522.7459,
+          "y": 336.94803
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        3,
+        5,
+        7
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 5,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 738.45404,
+          "y": 340.90598
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        4,
+        6,
+        14
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 6,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 867.5454,
+          "y": 243.50888
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        5,
+        8
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 7,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 408.59314,
+          "y": 240.52869
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        4,
+        11
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 8,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 991.2241,
+          "y": 212.21666
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        6,
+        9
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 9,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 1122.375,
+          "y": 187.53549
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        8,
+        17
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 11,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 262.0,
+          "y": 239.00002
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        7,
+        12
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 12,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 118.04576,
+          "y": 252.84164
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        11,
+        13
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 13,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 146.3347,
+          "y": 414.87094
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        1,
+        12
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 14,
+      "m_summonType": 1,
+      "m_point": {
+        "m_pos": {
+          "x": 848.174,
+          "y": 421.57642
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        5,
+        15
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 15,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 972.5978,
+          "y": 520.66833
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        14,
+        17,
+        18
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 17,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 1149.9202,
+          "y": 484.16077
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        9,
+        15
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 18,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 805.70605,
+          "y": 566.8616
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        15,
+        19
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 19,
+      "m_summonType": 3,
+      "m_point": {
+        "m_pos": {
+          "x": 477.883,
+          "y": 563.88135
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        1,
+        18
+      ],
+      "m_atterIds": []
+    },
+    {
+      "m_pointId": 20,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 245.68953,
+          "y": 297.36853
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        21
+      ],
+      "m_atterIds": [
+        6
+      ]
+    },
+    {
+      "m_pointId": 21,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 368.38593,
+          "y": 312.21085
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        20
+      ],
+      "m_atterIds": [
+        6
+      ]
+    },
+    {
+      "m_pointId": 22,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 510.87204,
+          "y": 427.9808
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        23
+      ],
+      "m_atterIds": [
+        2
+      ]
+    },
+    {
+      "m_pointId": 23,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 621.6408,
+          "y": 402.30594
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        22,
+        24
+      ],
+      "m_atterIds": [
+        3
+      ]
+    },
+    {
+      "m_pointId": 24,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 719.65375,
+          "y": 426.00183
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        23
+      ],
+      "m_atterIds": [
+        5
+      ]
+    },
+    {
+      "m_pointId": 25,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 923.48804,
+          "y": 332.99005
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        26
+      ],
+      "m_atterIds": [
+        4
+      ]
+    },
+    {
+      "m_pointId": 26,
+      "m_summonType": 2,
+      "m_point": {
+        "m_pos": {
+          "x": 1030.3325,
+          "y": 376.76276
+        },
+        "m_tag": "",
+        "m_warp": 0,
+        "m_wait": 0,
+        "m_speed_scale": 0,
+        "m_activateEnemyNodeAbilityIds": [],
+        "m_deactivateEnemyNodeAbilityIds": []
+      },
+      "m_edge": [
+        25
+      ],
+      "m_atterIds": [
+        4
+      ]
+    }
+  ],
+  "m_playerRoutes": [
+    {
+      "m_routeId": 1,
+      "m_startPointId": 22,
+      "m_endPointId": 23,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 2,
+      "m_startPointId": 23,
+      "m_endPointId": 24,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 3,
+      "m_startPointId": 25,
+      "m_endPointId": 26,
+      "m_positions": [
+        {
+          "x": 993.6142,
+          "y": 340.0443
+        }
+      ]
+    },
+    {
+      "m_routeId": 4,
+      "m_startPointId": 20,
+      "m_endPointId": 21,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 5,
+      "m_startPointId": 3,
+      "m_endPointId": 4,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 6,
+      "m_startPointId": 1,
+      "m_endPointId": 3,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 7,
+      "m_startPointId": 1,
+      "m_endPointId": 19,
+      "m_positions": [
+        {
+          "x": 372.59427,
+          "y": 538.0044
+        }
+      ]
+    },
+    {
+      "m_routeId": 8,
+      "m_startPointId": 1,
+      "m_endPointId": 13,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 9,
+      "m_startPointId": 7,
+      "m_endPointId": 11,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 10,
+      "m_startPointId": 18,
+      "m_endPointId": 19,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 11,
+      "m_startPointId": 14,
+      "m_endPointId": 15,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 12,
+      "m_startPointId": 15,
+      "m_endPointId": 18,
+      "m_positions": [
+        {
+          "x": 883.9365,
+          "y": 559.4111
+        }
+      ]
+    },
+    {
+      "m_routeId": 13,
+      "m_startPointId": 15,
+      "m_endPointId": 17,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 14,
+      "m_startPointId": 5,
+      "m_endPointId": 14,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 15,
+      "m_startPointId": 4,
+      "m_endPointId": 5,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 16,
+      "m_startPointId": 5,
+      "m_endPointId": 6,
+      "m_positions": [
+        {
+          "x": 788.5698,
+          "y": 288.95706
+        }
+      ]
+    },
+    {
+      "m_routeId": 17,
+      "m_startPointId": 4,
+      "m_endPointId": 7,
+      "m_positions": [
+        {
+          "x": 477.13794,
+          "y": 280.7615
+        }
+      ]
+    },
+    {
+      "m_routeId": 18,
+      "m_startPointId": 6,
+      "m_endPointId": 8,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 19,
+      "m_startPointId": 8,
+      "m_endPointId": 9,
+      "m_positions": []
+    },
+    {
+      "m_routeId": 20,
+      "m_startPointId": 9,
+      "m_endPointId": 17,
+      "m_positions": [
+        {
+          "x": 1300.4825,
+          "y": 263.72598
+        },
+        {
+          "x": 1306.4194,
+          "y": 344.86392
+        },
+        {
+          "x": 1242.1028,
+          "y": 421.0544
+        }
+      ]
+    },
+    {
+      "m_routeId": 21,
+      "m_startPointId": 12,
+      "m_endPointId": 13,
+      "m_positions": [
+        {
+          "x": 42.844727,
+          "y": 299.3475
+        },
+        {
+          "x": 74.508286,
+          "y": 349.81134
+        }
+      ]
+    },
+    {
+      "m_routeId": 22,
+      "m_startPointId": 11,
+      "m_endPointId": 12,
+      "m_positions": []
+    }
+  ],
+  "m_corePos": [
+    {
+      "x": 637.52637,
+      "y": 618.9518
+    }
+  ],
+  "m_startViewPoint": {
+    "x": 1706.667,
+    "y": -336.20706
+  },
+  "m_lockScrollRange": {
+    "x": -3.402823E+38,
+    "y": 3.402823E+38,
+    "z": 3.402823E+38,
+    "w": -3.402823E+38
+  },
+  "m_lockMapScroll": 0
+}
